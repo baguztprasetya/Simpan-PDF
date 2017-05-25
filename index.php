@@ -1,6 +1,6 @@
 <html>
  <head>
- <title>Membuat Laporan PDF dengan DomPDF2</title>
+ <title>Membuat Laporan PDF dengan DomPDF2222</title>
  <style type="text/css">
  label{
  display:inline-block;
